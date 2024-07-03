@@ -1,0 +1,33 @@
+{
+    "application_information": {
+        "description": "The application is a comprehensive medical records management system designed to digitize and centralize patient health information.",
+        "purpose": "The primary purpose of the application is to improve healthcare efficiency by providing secure and efficient access to patient records and facilitating seamless communication between healthcare professionals and patients.",
+        "users_and_roles": [
+            {
+                "role": "Doctor",
+                "description": "Doctors are primary users who use the application for diagnosing patients, prescribing treatments, and accessing patient records.",
+                "access_level": "Doctors can access patient records including medical history, lab results, treatment plans, and communicate with other healthcare professionals."
+            },
+            {
+                "role": "Nurse",
+                "description": "Nurses play a crucial role in patient care and use the application to record vital signs, update patient information, and assist in medical procedures under doctor supervision.",
+                "access_level": "Nurses can access patient records under their care, vital signs, medication administration records, and communicate with doctors regarding patient status."
+            },
+            {
+                "role": "Administrative Staff",
+                "description": "Administrative staff members manage administrative tasks, scheduling appointments, handling billing, and ensuring smooth operations of the healthcare facility.",
+                "access_level": "Administrative staff can manage appointments, handle billing information, and perform administrative tasks."
+            },
+            {
+                "role": "Patient",
+                "description": "Patients are also users of the application, allowing them to access their own medical records, schedule appointments, view prescription history, and communicate with healthcare providers.",
+                "access_level": "Patients can access their medical records, appointment scheduling features, prescription history, and communicate securely with doctors or nurses."
+            },
+            {
+                "role": "Administrator",
+                "description": "The administrator role has elevated privileges to manage user accounts, configure system settings, and ensure data security and compliance within the application.",
+                "access_level": "Administrators have full access to user management, system configuration, and ensuring regulatory compliance."
+            }
+        ]
+    }
+}

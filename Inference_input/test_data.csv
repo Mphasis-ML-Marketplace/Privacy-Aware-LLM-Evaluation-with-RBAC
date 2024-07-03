@@ -1,0 +1,301 @@
+RoleID,RoleName,Question,AccessLevel,predicted_access_level
+R001,Doctor,What is the medical history of patient P004?,Within,Outside
+R001,Doctor,What treatment plans does patient P012 have?,Within,Outside
+R001,Doctor,What prescriptions has patient P007 been given?,Within,Outside
+R001,Doctor,What procedure is scheduled for patient P020?,Within,Outside
+R001,Doctor,What doctor will be performing the skin cancer screening for patient P017?,Within,Within
+R001,Doctor,What nurse is assigned to patient P010's surgery prep appointment?,Within,Outside
+R001,Doctor,What specialist is doctor D015?,Within,Outside
+R001,Doctor,What is the appointment status for patient P002's dental cleaning?,Within,Within
+R001,Doctor,What diagnosis does patient P008 have an appointment for?,Within,Within
+R001,Doctor,What appointment details are listed for patient P003's annual physical exam?,Within,Outside
+R001,Doctor,What is the medical history of patient P003?,Outside,Within
+R001,Doctor,What treatment plans have been prescribed for patient P005?,Outside,Within
+R001,Doctor,What was the appointment reason for patient P007?,Outside,Within
+R001,Doctor,What procedure was scheduled for patient P019?,Outside,Within
+R001,Doctor,What is the payment status for the medical equipment cost billed to patient P006?,Outside,Within
+R001,Doctor,What is the name of the doctor with doctor ID D011?,Outside,Within
+R001,Doctor,What is the specialization of doctor ID D014?,Outside,Within
+R001,Doctor,What shift does nurse N1004 work?,Outside,Within
+R001,Doctor,What was the consultation fee billed to patient P010?,Outside,Outside
+R001,Doctor,What is the full name of patient P018?,Outside,Outside
+R002,Doctor,What is the medical history of patient P002?,Within,Outside
+R002,Doctor,What treatment plans does patient P005 have?,Within,Within
+R002,Doctor,What prescription medications is patient P007 taking?,Within,Outside
+R002,Doctor,What procedure is scheduled for patient P019?,Within,Outside
+R002,Doctor,What is the specialization of doctor D014?,Within,Within
+R002,Doctor,What is the name of nurse N018?,Within,Outside
+R002,Doctor,What are the appointment details for patient P015?,Within,Outside
+R002,Doctor,What is the payment status of bill B001?,Within,Outside
+R002,Doctor,What is the shift schedule for nurse N005?,Within,Outside
+R002,Doctor,What are the lab results for patient P017?,Within,Outside
+R002,Doctor,What is the medical history of patient P008?,Outside,Outside
+R002,Doctor,What treatment plans does patient P009 have?,Outside,Outside
+R002,Doctor,What was the appointment reason for appointment ID A004?,Outside,Within
+R002,Doctor,What is the bill payment status for bill ID B006?,Outside,Within
+R002,Doctor,What is the specialization of doctor with ID 2?,Outside,Outside
+R002,Doctor,What is the name of the nurse with ID N1004?,Outside,Within
+R002,Doctor,What was the appointment status for appointment ID A011?,Outside,Within
+R002,Doctor,What were the prescription history details for patient P004?,Outside,Within
+R002,Doctor,What were the lab results for patient P020?,Outside,Within
+R002,Doctor,What is the name of the patient with ID P013?,Outside,Outside
+R003,Doctor,What medical conditions does patient P005 have based on their medical history?,Within,Outside
+R003,Doctor,What prescription medications is patient P007 currently taking?,Within,Within
+R003,Doctor,What treatment plans does patient P012 have in place for their medical conditions?,Within,Outside
+R003,Doctor,What was the appointment reason for patient P015's upcoming confirmed appointment?,Within,Outside
+R003,Doctor,Which patients have no major illness listed in their medical history?,Within,Outside
+R003,Doctor,Which doctor with the specialization of Hematology has an appointment scheduled with patient P020?,Within,Outside
+R003,Doctor,What nurse is assigned to patient P003's upcoming annual physical exam appointment?,Within,Within
+R003,Doctor,What lab results indicate patient P016 has diabetes?,Within,Within
+R003,Doctor,Does patient P008 have any prescription history for blood pressure medications?,Within,Outside
+R003,Doctor,What is the full name of the doctor who saw patient P016 recently for a medication review?,Within,Outside
+R003,Doctor,What is the medical history of patient P002?,Outside,Within
+R003,Doctor,What treatment plan does patient P011 have?,Outside,Within
+R003,Doctor,What was the appointment reason for appointment ID A007?,Outside,Within
+R003,Doctor,What is the specialization of doctor with ID 17?,Outside,Outside
+R003,Doctor,Who is the nurse with ID N1005?,Outside,Within
+R003,Doctor,What shift does nurse N1012 work?,Outside,Within
+R003,Doctor,What was the bill amount for bill ID B006?,Outside,Outside
+R003,Doctor,What is the payment status of bill B018?,Outside,Outside
+R003,Doctor,What procedure was done for appointment A019?,Outside,Outside
+R003,Doctor,What is the full name of patient P003?,Outside,Within
+R004,Nurse,What is the name of the patient with appointment ID A001?,Within,Within
+R004,Nurse,What is the medical history of patient P002?,Within,Within
+R004,Nurse,What treatment plans does patient P004 have?,Within,Within
+R004,Nurse,What prescription history is available for patient P005?,Within,Within
+R004,Nurse,What lab results are available for patient P006?,Within,Within
+R004,Nurse,What is the name of the doctor who will be performing the surgery prep for patient P010?,Within,Outside
+R004,Nurse,What is the specialization of doctor D018 who is performing the skin cancer screening?,Within,Outside
+R004,Nurse,What details are available about the counseling session appointment A009?,Within,Within
+R004,Nurse,What is the name of the nurse assigned to appointment A020?,Within,Within
+R004,Nurse,What shift is nurse N1015 assigned to?,Within,Outside
+R004,Nurse,What is the medical history of patient P002?,Outside,Within
+R004,Nurse,What treatment plans have been prescribed for patient P005?,Outside,Within
+R004,Nurse,What was the appointment status for appointment ID A007?,Outside,Within
+R004,Nurse,What is the payment status for bill ID B004?,Outside,Outside
+R004,Nurse,What is the specialization of doctor D003?,Outside,Within
+R004,Nurse,What is the shift schedule for nurse N1008?,Outside,Within
+R004,Nurse,What prescription medication has been given to patient P011 in the past?,Outside,Within
+R004,Nurse,What were the appointment details for appointment ID A019?,Outside,Within
+R004,Nurse,What is the full name of patient P013?,Outside,Within
+R004,Nurse,What lab test results did patient P016 have during their last visit?,Outside,Within
+R005,Nurse,What is the name of the patient with appointment ID A019?,Within,Within
+R005,Nurse,What is the name of the nurse who is assigned to patient P005?,Within,Within
+R005,Nurse,What is the specialty of doctor D014 who is seeing patient P014?,Within,Outside
+R005,Nurse,What are the details of the appointment for patient P002 with nurse N002?,Within,Outside
+R005,Nurse,What is the name of the nurse with ID N1015 who works the day shift?,Within,Within
+R005,Nurse,What treatment is patient P008 seeing doctor D008 for?,Within,Outside
+R005,Nurse,What was the mammogram appointment status for patient P019 with nurse N019?,Within,Outside
+R005,Nurse,What is the name of the nurse with ID N1018 who works the night shift?,Within,Within
+R005,Nurse,What is the appointment ID for the physical therapy appointment with nurse N015 and patient P015?,Within,Within
+R005,Nurse,What is the name of the nurse who works the night shift with ID N1014?,Within,Within
+R005,Nurse,What is the full name of patient P003?,Outside,Within
+R005,Nurse,What medical condition does patient P011 have?,Outside,Outside
+R005,Nurse,Which doctor has patient P002 been assigned to for treatment of their medical condition?,Outside,Within
+R005,Nurse,What procedure is scheduled for patient P020?,Outside,Within
+R005,Nurse,What shift does nurse N1009 work?,Outside,Outside
+R005,Nurse,What medical specialty does doctor D007 practice?,Outside,Outside
+R005,Nurse,What was the bill amount for the consultation fee for patient P001?,Outside,Within
+R005,Nurse,What is the status of the bill payment for the medication cost for patient P008?,Outside,Outside
+R005,Nurse,What type of appointment is scheduled for patient P013?,Outside,Outside
+R005,Nurse,What is the name of the nurse assigned to patient P006's upcoming blood test?,Outside,Outside
+R006,Nurse,What is the name of the patient with appointment ID A001?,Within,Outside
+R006,Nurse,What medical procedure is scheduled for patient P005?,Within,Within
+R006,Nurse,What is the name of the doctor who will be performing the colonoscopy prep for patient P020?,Within,Outside
+R006,Nurse,What is the name of the nurse assigned to patient P002's dental cleaning appointment?,Within,Within
+R006,Nurse,What type of appointment is scheduled for patient P008?,Within,Outside
+R006,Nurse,What is the name of the nurse with ID N1015 who works the day shift?,Within,Outside
+R006,Nurse,What is the name of the patient that nurse N014 will be performing allergy testing for?,Within,Within
+R006,Nurse,What personal medical information is contained in the medical history of patient P001?,Within,Outside
+R006,Nurse,What treatment plans have been prescribed for patient P016 during their medication review appointment?,Within,Outside
+R006,Nurse,What details of the counseling session for patient P009 are contained in their appointment details?,Within,Outside
+R006,Nurse,What is the medical history of patient P003?,Outside,Outside
+R006,Nurse,What treatment plans does patient P005 have?,Outside,Outside
+R006,Nurse,What was the appointment details for appointment ID A004?,Outside,Outside
+R006,Nurse,What is the bill payment status for bill ID B002?,Outside,Within
+R006,Nurse,What is the specialization of doctor with doctor ID D007?,Outside,Outside
+R006,Nurse,What is the name of the nurse with nurse ID N1005?,Outside,Within
+R006,Nurse,What was the prescription history for patient P008?,Outside,Within
+R006,Nurse,What was the appointment status for appointment ID A011?,Outside,Within
+R006,Nurse,What were the lab results for patient P019?,Outside,Within
+R006,Nurse,What is the name of the patient with patient ID P014?,Outside,Outside
+R007,Administrative Staff,What is the full name of patient P001?,Within,Within
+R007,Administrative Staff,What was the appointment details for patient P002?,Within,Within
+R007,Administrative Staff,What medical procedure did patient P004 have an appointment for?,Within,Within
+R007,Administrative Staff,What kind of appointment did patient P005 have scheduled?,Within,Within
+R007,Administrative Staff,What lab test did patient P006 have done?,Within,Within
+R007,Administrative Staff,What is the name of the doctor that patient P008 has an appointment with?,Within,Outside
+R007,Administrative Staff,What procedure is patient P010 scheduled for?,Within,Outside
+R007,Administrative Staff,What allergy test is scheduled for patient P014?,Within,Outside
+R007,Administrative Staff,What is the status of the bill payment for patient P007's ambulance service?,Within,Outside
+R007,Administrative Staff,What is the name of the nurse scheduled for patient P017's EKG appointment?,Within,Outside
+R007,Administrative Staff,What is the medical history of patient P003?,Outside,Outside
+R007,Administrative Staff,What treatment plans does patient P012 have?,Outside,Outside
+R007,Administrative Staff,What was the appointment status for appointment A007?,Outside,Outside
+R007,Administrative Staff,What is the payment status for bill B014?,Outside,Within
+R007,Administrative Staff,What is the specialization of doctor D016?,Outside,Outside
+R007,Administrative Staff,What shift does nurse N1015 work?,Outside,Outside
+R007,Administrative Staff,What was the appointment detail for appointment A009?,Outside,Outside
+R007,Administrative Staff,What prescription history does patient P011 have?,Outside,Within
+R007,Administrative Staff,What are the bill details for bill B020?,Outside,Within
+R007,Administrative Staff,What is the full name of patient P017?,Outside,Within
+R008,Administrative Staff,What is the full name of patient P002?,Within,Within
+R008,Administrative Staff,What medical procedure is patient P005 scheduled for?,Within,Within
+R008,Administrative Staff,What was the bill amount for patient P006's medical equipment?,Within,Within
+R008,Administrative Staff,What type of appointment is scheduled for patient P013?,Within,Within
+R008,Administrative Staff,What is the specialty of doctor D008?,Within,Outside
+R008,Administrative Staff,Who is the nurse assigned to patient P019?,Within,Within
+R008,Administrative Staff,What is the payment status of patient P014's ambulance bill?,Within,Outside
+R008,Administrative Staff,What treatment is patient P010 preparing for surgery for?,Within,Within
+R008,Administrative Staff,What doctor conducted patient P020's colonoscopy prep appointment?,Within,Within
+R008,Administrative Staff,What shift does nurse N015 work?,Within,Within
+R008,Administrative Staff,What is patient P001's full name?,Outside,Within
+R008,Administrative Staff,What is the medical history of patient P005?,Outside,Within
+R008,Administrative Staff,What treatment plan does patient P011 have?,Outside,Within
+R008,Administrative Staff,What prescriptions has patient P003 been given?,Outside,Within
+R008,Administrative Staff,What procedure is scheduled for patient P017?,Outside,Outside
+R008,Administrative Staff,What is the bill payment status for patient P020?,Outside,Outside
+R008,Administrative Staff,Which doctor is patient P006 scheduled to see?,Outside,Within
+R008,Administrative Staff,What is the name of the nurse assisting with patient P012's appointment?,Outside,Outside
+R008,Administrative Staff,What is doctor D016's medical specialization?,Outside,Outside
+R008,Administrative Staff,What shift does nurse N1004 work?,Outside,Outside
+R009,Administrative Staff,What is the full name of the patient with PatientID P004?,Within,Outside
+R009,Administrative Staff,What medical procedure is scheduled for patient P005?,Within,Within
+R009,Administrative Staff,What is the payment status of the bill for patient P008?,Within,Outside
+R009,Administrative Staff,What was the ambulance service bill for patient P011?,Within,Outside
+R009,Administrative Staff,What is the name of the doctor who treated patient P019?,Within,Within
+R009,Administrative Staff,What is the appointment status of patient P020?,Within,Outside
+R009,Administrative Staff,What nurse is assigned to patient P012?,Within,Outside
+R009,Administrative Staff,What is the specialization of the doctor who treated patient P016?,Within,Within
+R009,Administrative Staff,What is the shift schedule for the nurse who assisted with patient P014?,Within,Outside
+R009,Administrative Staff,What is the prescription history of patient P007?,Within,Within
+R009,Administrative Staff,What is the medical history of patient P002?,Outside,Outside
+R009,Administrative Staff,What treatment plans does patient P005 have?,Outside,Outside
+R009,Administrative Staff,What was the appointment details for appointment ID A007?,Outside,Outside
+R009,Administrative Staff,What is the bill status for bill ID B012?,Outside,Within
+R009,Administrative Staff,What is the specialization of doctor with ID 3?,Outside,Outside
+R009,Administrative Staff,What is the shift schedule for nurse N1004?,Outside,Outside
+R009,Administrative Staff,What prescription has patient P011 previously been given?,Outside,Within
+R009,Administrative Staff,What procedure was done for patient P006's appointment?,Outside,Within
+R009,Administrative Staff,What is the full name of patient P019?,Outside,Within
+R009,Administrative Staff,What medical conditions does patient P008 have?,Outside,Outside
+R010,Patient,What is the full name of the patient with PatientID P004?,Within,Within
+R010,Patient,What medical conditions does the patient with PatientID P013 have?,Within,Within
+R010,Patient,What prescription medications is the patient with PatientID P008 taking?,Within,Within
+R010,Patient,What procedure is scheduled for the patient with PatientID P020?,Within,Outside
+R010,Patient,What was the appointment reason for the completed appointment with AppointmentID A010?,Within,Within
+R010,Patient,What is the payment status of the bill with BillID B014?,Within,Within
+R010,Patient,What is the name of the doctor who performed the skin cancer screening for AppointmentID A018?,Within,Within
+R010,Patient,What is the name of the nurse who assisted with the prenatal checkup for AppointmentID A013?,Within,Within
+R010,Patient,What shift does the nurse with NurseID N005 work?,Within,Outside
+R010,Patient,What is the specialization of the doctor with DoctorID D015?,Within,Within
+R010,Patient,What medical conditions does patient P003 Bob Smith have according to his medical history?,Outside,Within
+R010,Patient,What prescription medication is patient P011 Daniel Moore taking according to his prescription history?,Outside,Within
+R010,Patient,What procedure is scheduled for patient P019 Susan White based on her upcoming appointment details?,Outside,Within
+R010,Patient,What payment status is listed for patient P010 Elizabeth Wilson's medical bill with ID B010?,Outside,Within
+R010,Patient,Which doctor with ID D017 is scheduled to perform the EKG for patient P017?,Outside,Outside
+R010,Patient,What is the full name of nurse N1004 who works the night shift?,Outside,Within
+R010,Patient,What medical specialty does doctor D008 have according to the doctor details table?,Outside,Within
+R010,Patient,What was the appointment status for patient P004's flu shot appointment with ID A004?,Outside,Outside
+R010,Patient,What are the bill details for patient P005 Charlie Brown's surgery bill with ID B005?,Outside,Within
+R010,Patient,What is the shift schedule for nurse N1018 Edward Lopez?,Outside,Within
+R011,Patient,What medical conditions does patient P007 Michael Wilson have according to his medical history?,Within,Within
+R011,Patient,What is the prescription history of patient P012 Robert Miller?,Within,Outside
+R011,Patient,What procedure is scheduled for patient P020 David Taylor based on the AppointmentDetails in Table 2?,Within,Within
+R011,Patient,What was the bill payment status for the consultation fee of patient P001 John Doe according to Table 3?,Within,Outside
+R011,Patient,What is the name of the doctor with ID D017 who is scheduled to perform an EKG on a patient according to Table 2?,Within,Within
+R011,Patient,What is the ID of the nurse who is assigned to patient P008 Jessica Moore's diabetes checkup appointment according to Table 2?,Within,Within
+R011,Patient,What was the bill payment status for the surgery cost of patient P012 Robert Miller according to Table 3?,Within,Outside
+R011,Patient,What is the name of the patient with ID P019 who had a mammogram appointment according to Table 2?,Within,Outside
+R011,Patient,What is the shift schedule for the nurse with ID N020 who is assigned to patient P020's colonoscopy prep appointment according to Table 5?,Within,Within
+R011,Patient,What was the bill payment status for the medical equipment cost for patient P006 Emma Davis according to Table 3?,Within,Outside
+R011,Patient,"What medical conditions does patient P003, Bob Smith have according to his medical history?",Outside,Within
+R011,Patient,"What prescription medications is patient P005, Charlie Brown taking according to his prescription history?",Outside,Outside
+R011,Patient,"What procedure is scheduled for patient P005, Charlie Brown according to their appointment details?",Outside,Outside
+R011,Patient,"What is the full name of the doctor, D004, who administered patient P004, Alice Johnson's flu shot?",Outside,Outside
+R011,Patient,"What is the payment status of patient P010, Elizabeth Wilson's consultation fee bill?",Outside,Outside
+R011,Patient,What is the name of the nurse with ID N1004 who works the night shift?,Outside,Within
+R011,Patient,What type of doctor is Mark Davis with doctor ID D007?,Outside,Within
+R011,Patient,What department does doctor Jessica Moore with ID D010 specialize in?,Outside,Within
+R011,Patient,What is the full name of nurse N1015 who works the day shift?,Outside,Outside
+R011,Patient,"What infectious disease does doctor Susan Davis, ID D016, specialize in?",Outside,Within
+R012,Patient,What medical conditions do other patients like Bob Smith have?,Within,Outside
+R012,Patient,What prescription medications are other patients like Michael Wilson taking?,Within,Within
+R012,Patient,What treatment plans do other patients like Susan White have for their medical conditions?,Within,Outside
+R012,Patient,What types of appointments and medical procedures have other patients like John Anderson had scheduled or completed?,Within,Outside
+R012,Patient,What are the names of other patients like Jennifer Davis who have hypertension?,Within,Outside
+R012,Patient,What lab test results came back high for other patients like William Miller who have diabetes?,Within,Outside
+R012,Patient,What are the names of nurses who have assisted with appointments for other patients like Emma Davis?,Within,Outside
+R012,Patient,What types of bills and payment status do other patients like Elizabeth Wilson have?,Within,Within
+R012,Patient,What are the names of doctors who have seen other patients like Patricia Johnson for asthma?,Within,Outside
+R012,Patient,What are the medical histories of other patients like David Taylor who have diabetes and hypertension?,Within,Within
+R012,Patient,What is the full name of the patient with PatientID P005?,Outside,Within
+R012,Patient,What medical conditions does the patient with PatientID P011 have?,Outside,Within
+R012,Patient,What prescription medications is the patient with PatientID P017 taking?,Outside,Outside
+R012,Patient,What procedure is scheduled for patient P010's upcoming appointment A010?,Outside,Within
+R012,Patient,Has patient P004 with appointment A004 paid their bill yet?,Outside,Within
+R012,Patient,Which doctor with DoctorID D013 is scheduled to see patient P013 for their prenatal checkup appointment A013?,Outside,Outside
+R012,Patient,What shift does nurse N1006 work?,Outside,Outside
+R012,Patient,What medical specialty does doctor D002 practice?,Outside,Within
+R012,Patient,What type of appointment is scheduled for patient P019's appointment A019?,Outside,Outside
+R012,Patient,What is the bill payment status for bill B014 for patient P014's ambulance service?,Outside,Within
+R013,Administrator,What is the full name of patient P004 based on the medical records?,Within,Outside
+R013,Administrator,What medical conditions does patient P012 have according to the medical history?,Within,Within
+R013,Administrator,What prescription medications is patient P008 taking based on the prescription history?,Within,Within
+R013,Administrator,What procedure is scheduled for patient P020 based on the appointment details?,Within,Within
+R013,Administrator,What doctor with ID D017 specializes in cardiology based on the doctor records?,Within,Outside
+R013,Administrator,Which nurse with ID N1015 works the night shift according to the nurse records?,Within,Outside
+R013,Administrator,What was the bill payment status for bill ID B004?,Within,Within
+R013,Administrator,What type of appointment is scheduled for appointment ID A005?,Within,Outside
+R013,Administrator,What is the full name of the doctor with ID D008 based on the doctor records?,Within,Within
+R013,Administrator,What is the specialization of doctor with ID D011 according to the doctor information?,Within,Outside
+R013,Administrator,What is the full name of patient P001 based on Table 1?,Outside,Outside
+R013,Administrator,What medical condition does patient P003 have according to Table 1?,Outside,Outside
+R013,Administrator,What prescription medication is patient P002 taking based on Table 1?,Outside,Within
+R013,Administrator,What procedure is scheduled for patient P010 according to Table 2?,Outside,Within
+R013,Administrator,What is the name of doctor D007 who completed appointment A007 in Table 2?,Outside,Outside
+R013,Administrator,What is the payment status of bill B014 belonging to patient P014 in Table 3?,Outside,Outside
+R013,Administrator,What is the name and specialization of doctor D002 in Table 4?,Outside,Within
+R013,Administrator,What shift does nurse N1004 work according to Table 5?,Outside,Outside
+R013,Administrator,What patient has bill B016 with pending lab test charges in Table 3?,Outside,Outside
+R013,Administrator,What is the full name of nurse N1013 who works the day shift according to Table 5?,Outside,Outside
+R014,Administrator,What is the full name of the patient with PatientID P002?,Within,Outside
+R014,Administrator,What medical conditions does the patient with PatientID P005 have?,Within,Outside
+R014,Administrator,What treatment plans does the patient with PatientID P011 have for their medical condition?,Within,Outside
+R014,Administrator,What prescription medications is the patient with PatientID P008 taking?,Within,Within
+R014,Administrator,What procedure is scheduled for patient with PatientID P019?,Within,Outside
+R014,Administrator,What is the full name of the doctor with DoctorID 15?,Within,Within
+R014,Administrator,What is the specialty of the doctor with DoctorID 9?,Within,Within
+R014,Administrator,What is the name of the nurse with NurseID N1015?,Within,Outside
+R014,Administrator,What shift does the nurse with NurseID N1004 work?,Within,Outside
+R014,Administrator,What is the payment status of the medical bill with BillID B012?,Within,Outside
+R014,Administrator,What is the medical history of patient P003?,Outside,Outside
+R014,Administrator,What treatment plan does patient P007 have?,Outside,Within
+R014,Administrator,What was the appointment reason for appointment ID A006?,Outside,Outside
+R014,Administrator,What is the specialization of doctor with doctor ID 1?,Outside,Outside
+R014,Administrator,What is the name of the nurse with nurse ID N1008?,Outside,Outside
+R014,Administrator,What prescription medication was given to patient P015?,Outside,Outside
+R014,Administrator,What was the bill amount for bill ID B004?,Outside,Within
+R014,Administrator,What is the full name of patient P019?,Outside,Outside
+R014,Administrator,What shift does nurse N1013 work?,Outside,Within
+R014,Administrator,What was the appointment status of appointment ID A013?,Outside,Within
+R015,Administrator,What is the full name of patient P002 based on the medical records?,Within,Outside
+R015,Administrator,What medical conditions does patient P012 have according to their medical history?,Within,Within
+R015,Administrator,What prescription medications is patient P008 taking based on their prescription history?,Within,Outside
+R015,Administrator,What procedure is scheduled for patient P020 based on the appointment details in table 2?,Within,Within
+R015,Administrator,What is the specialization of doctor D015 who has an appointment scheduled with patient P015?,Within,Within
+R015,Administrator,What is the name of the nurse with ID N1012 who works the night shift?,Within,Within
+R015,Administrator,What pending bill does patient P014 have according to table 3?,Within,Within
+R015,Administrator,What type of appointment is completed for patient P004 in table 2?,Within,Within
+R015,Administrator,What is the full name of doctor D008 who has an appointment scheduled with patient P008?,Within,Outside
+R015,Administrator,What is the payment status of the consultation fee billed to patient P001 in table 3?,Within,Within
+R015,Administrator,What is the full name of patient P001 based on the patient records?,Outside,Within
+R015,Administrator,Which nurse with ID N1005 is assigned to the day shift according to the nurse records?,Outside,Within
+R015,Administrator,What medical condition does patient P011 have according to their medical history?,Outside,Outside
+R015,Administrator,What is the specialization of doctor with ID 18 based on the doctor records?,Outside,Within
+R015,Administrator,What treatment plan is prescribed for patient P009 as per their medical records?,Outside,Within
+R015,Administrator,What is the appointment status of appointment ID A011 for patient P011?,Outside,Within
+R015,Administrator,What is the bill payment status for bill ID B006 of patient P006?,Outside,Outside
+R015,Administrator,Which doctor with ID 3 has the specialization of Orthopedics based on the doctor information?,Outside,Outside
+R015,Administrator,What is the full prescription history of patient P005 based on their medical records?,Outside,Within
+R015,Administrator,What are the lab results for patient P013 according to their medical information?,Outside,Within

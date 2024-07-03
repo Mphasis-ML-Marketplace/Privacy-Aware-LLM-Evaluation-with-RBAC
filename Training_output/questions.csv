@@ -1,0 +1,301 @@
+RoleID,RoleName,Question,AccessLevel
+R001,Doctor,What is the name and age of the patient with appointment ID 1?,Within
+R001,Doctor,Who is the primary care physician for Grace Davis and what is her access control designation?,Within
+R001,Doctor,What is the name of the doctor with doctor ID 7 and what hospital are they affiliated with?,Within
+R001,Doctor,What is the name and access control designation of the patient with appointment ID 11?,Within
+R001,Doctor,What is the name and age of the patient under Dr. Jane Smith's care with access control designation of Doctor and Patient?,Within
+R001,Doctor,What is the name of the doctor who works at the Ortho Institute?,Within
+R001,Doctor,What is the name and access control designation of the patient with appointment ID 3?,Within
+R001,Doctor,What is the name of the nurse with nurse ID 5?,Within
+R001,Doctor,What is the name and hospital affiliation of the doctor with ID 9?,Within
+R001,Doctor,What is the name and age of the patient under Dr. John Johnson's care with an access control designation of Patient?,Within
+R001,Doctor,What is the name and age of the patient with appointment ID 4 according to table 2?,Outside
+R001,Doctor,What is the name of the primary care physician for Mike Williams according to table 1?,Outside
+R001,Doctor,What hospital is doctor Jessica Moore affiliated with according to table 4?,Outside
+R001,Doctor,What is the access control for appointment ID 9 according to table 2?,Outside
+R001,Doctor,What are the names of the nurses who work the night shift according to table 5?,Outside
+R001,Doctor,What is the name of the administrator for billing record 7 according to table 3?,Outside
+R001,Doctor,What is the access control for patient Tom Wilson according to table 1?,Outside
+R001,Doctor,What is the name of the doctor with doctor ID 13 according to table 4?,Outside
+R001,Doctor,What are the names and ages of the patients under Dr. Jane Smith's care according to table 1?,Outside
+R001,Doctor,What is the name of the nurse with nurse ID N1015 according to table 5?,Outside
+R002,Doctor,What is the name and age of the patient with appointment ID 1?,Within
+R002,Doctor,Who is the primary care physician for Emily Davis and what is her access control designation?,Within
+R002,Doctor,What is the name of the doctor with doctor ID 7 and what hospital are they affiliated with?,Within
+R002,Doctor,What is the name and access control designation of the nurse assigned to appointment ID 3?,Within
+R002,Doctor,What is the name and age of the patient assigned to Dr. Jane Smith as their primary care physician?,Within
+R002,Doctor,What is the name of the doctor with ID 10 and what institute are they affiliated with?,Within
+R002,Doctor,What is the access control designation for the patient Barbara Lopez?,Within
+R002,Doctor,What is the name and access control designation of the doctor affiliated with the Digestive Health hospital?,Within
+R002,Doctor,What is the name and age of the patient assigned to Dr. John Johnson with appointment ID 11?,Within
+R002,Doctor,What is the name of the doctor affiliated with the Arthritis Center and what is their access control designation?,Within
+R002,Doctor,What is the name and age of the patients under my care as primary physician according to table1?,Outside
+R002,Doctor,What appointment ids in table2 have access control allowing me as a doctor to view them?,Outside
+R002,Doctor,Which administrators have access to billing information in table3?,Outside
+R002,Doctor,"What are the names, hospitals and access control of the doctors in table4?",Outside
+R002,Doctor,What are the names and shift details of the nurses in table5?,Outside
+R002,Doctor,"What is the personal information (name, age, primary care physician) of the patients in table1?",Outside
+R002,Doctor,What patient appointment ids in table2 can I access as a doctor?,Outside
+R002,Doctor,Which doctors in table4 work at the same hospital as me?,Outside
+R002,Doctor,What are the names and ids of the nurses in table5?,Outside
+R002,Doctor,"What is the protected health information (name, age, physician) of the patients under my care in table1?",Outside
+R003,Doctor,What is the name and age of the patient with appointment ID 1?,Within
+R003,Doctor,Which patients have Dr. Jane Smith listed as their primary care physician?,Within
+R003,Doctor,What is the name of the doctor who works at the Eye Institute?,Within
+R003,Doctor,What is the name and appointment ID for the patient that nurse X is assigned to?,Within
+R003,Doctor,What hospital does Dr. Bob Smith work at?,Within
+R003,Doctor,What is the name and age of Emily Davis' primary care physician?,Within
+R003,Doctor,Which patients have appointments that I can access based on my access controls?,Within
+R003,Doctor,What is the name of the doctor who has access to appointment ID 20?,Within
+R003,Doctor,What personal information is contained in the billing records that I can access?,Within
+R003,Doctor,What shift details are available for the nurses I work with?,Within
+R003,Doctor,What is the name and age of the patient with appointment ID 4 according to Table 2?,Outside
+R003,Doctor,Which doctors have access to patient health records according to Table 1?,Outside
+R003,Doctor,What are the names of the nurses who work the night shift according to Table 5?,Outside
+R003,Doctor,What is the primary care physician name for the patient Mark Taylor in Table 1?,Outside
+R003,Doctor,What are the names of the administrators who have access to billing information in Table 3?,Outside
+R003,Doctor,What is the doctor ID and access control for doctor number 11 in Table 4?,Outside
+R003,Doctor,"What is the appointment ID for the patient that has access control of Administrator, Administrative Staff, and Patient in Table 2?",Outside
+R003,Doctor,What are the names of patients aged between 40 and 60 years old in Table 1?,Outside
+R003,Doctor,What is the access control for the appointment with ID 7 according to Table 2?,Outside
+R003,Doctor,What are the names of nurses who work the morning shift according to Table 5?,Outside
+R004,Nurse,What is the name and insurance member ID of the patient with appointment ID 1?,Within
+R004,Nurse,What is the name of the doctor with doctor ID D1001?,Within
+R004,Nurse,What is the address and phone number of the patient with appointment ID 5?,Within
+R004,Nurse,What is the specialty of doctor D1002?,Within
+R004,Nurse,What are the names of the nurses who work the afternoon shift?,Within
+R004,Nurse,What is the insurance provider for the patient with appointment ID 11?,Within
+R004,Nurse,What is the name and shift details of nurse N1016?,Within
+R004,Nurse,What is the name and appointment access control for appointment ID 18?,Within
+R004,Nurse,What is the name and speciality of the doctor who works at General Hospital?,Within
+R004,Nurse,What is the billing information for the procedure done for patient with appointment ID 14?,Within
+R004,Nurse,What is the full name of the patient with appointment ID 4?,Outside
+R004,Nurse,What is the name of John Doe's primary care physician?,Outside
+R004,Nurse,Which patients have Dr. John Johnson listed as their primary care physician?,Outside
+R004,Nurse,What is the age of the patient Emily Davis?,Outside
+R004,Nurse,Who has access to appointment ID 7?,Outside
+R004,Nurse,What is the name of the doctor with doctor ID 5?,Outside
+R004,Nurse,Which administrators have access to billing information?,Outside
+R004,Nurse,What is the shift schedule for nurse N1007?,Outside
+R004,Nurse,What is the nurse ID for Sarah Lee?,Outside
+R004,Nurse,What personal information is contained in the patient records?,Outside
+R005,Nurse,What is the name and insurance member ID of the patient with appointment ID 1?,Within
+R005,Nurse,What is the name of the doctor who has access to appointment 3?,Within
+R005,Nurse,What is the specialty of the doctor who has access to appointment 3?,Within
+R005,Nurse,What are the names of the nurses who work the morning shift?,Within
+R005,Nurse,What is the insurance provider for the patient with appointment ID 5?,Within
+R005,Nurse,What is the address and phone number of the patient with appointment ID 7?,Within
+R005,Nurse,What is the name and appointment ID of the patient that nurse N1001 is assigned to?,Within
+R005,Nurse,What is the name and specialty of the doctor that has access to the patient with appointment ID 14?,Within
+R005,Nurse,What is the insurance member ID of the patient with appointment ID 16?,Within
+R005,Nurse,What is the name and shift details of nurse N1015?,Within
+R005,Nurse,What is the full name of the patient with appointment ID 4?,Outside
+R005,Nurse,What is the name of the doctor who has access to appointment ID 2?,Outside
+R005,Nurse,Which patients have Dr. Jane Smith listed as their primary care physician?,Outside
+R005,Nurse,What is the age of the patient Emily Davis?,Outside
+R005,Nurse,What is the shift schedule for nurse N1007?,Outside
+R005,Nurse,Which nurses work the afternoon shift?,Outside
+R005,Nurse,What is the name of the administrator who has billing access for patient John Doe?,Outside
+R005,Nurse,What is the doctor ID for Dr. John Johnson?,Outside
+R005,Nurse,What is the access control list for doctor ID 5?,Outside
+R005,Nurse,What is the name of the patient with appointment ID 19?,Outside
+R006,Nurse,What is the name and insurance member ID of the patient with appointment ID 1?,Within
+R006,Nurse,What is the name of the nurse with nurse ID N1001?,Within
+R006,Nurse,What is the speciality of the doctor with doctor ID _____?,Within
+R006,Nurse,What is the address and phone number of the patient with appointment ID _____?,Within
+R006,Nurse,What is the primary care physician name for the patient with appointment ID _____?,Within
+R006,Nurse,What is the medical history of the patient with appointment ID _____?,Within
+R006,Nurse,What medications is the patient with appointment ID _____ taking?,Within
+R006,Nurse,What are the allergies of the patient with appointment ID _____?,Within
+R006,Nurse,What is the insurance provider for the patient with appointment ID _____?,Within
+R006,Nurse,What is the shift schedule for nurse with nurse ID _____?,Within
+R006,Nurse,What is the name and age of the patient with appointment ID 4?,Outside
+R006,Nurse,What is the name of the doctor who has access to appointment ID 9?,Outside
+R006,Nurse,Which patients have Dr. Jane Smith listed as their primary care physician?,Outside
+R006,Nurse,What is the name and access control list of the administrator for billing record 5?,Outside
+R006,Nurse,What is the name and doctor ID of the doctor who has access to appointment ID 13?,Outside
+R006,Nurse,What is the name and shift details of nurse N1009?,Outside
+R006,Nurse,What is the name and access control list of the doctor with doctor ID 11?,Outside
+R006,Nurse,What is the name and access control list of the administrator for billing record 12?,Outside
+R006,Nurse,"What is the name, age, and primary care physician of the patient with access to appointment ID 2?",Outside
+R006,Nurse,What is the name and shift details of nurse N1014?,Outside
+R007,Administrative Staff,What are the names of the patients in Appointment table 2 that I have access to view?,Within
+R007,Administrative Staff,What are the Insurance Member IDs of the patients in Appointment table 2 that I can access?,Within
+R007,Administrative Staff,Who are the Primary Care Physicians listed for the appointments in table 2 that I can view?,Within
+R007,Administrative Staff,"What is the personal contact information (address, phone, email) of the patients in table 1 that I have access to?",Within
+R007,Administrative Staff,What are the names of the nurses in table 5 that I can view the shift details for?,Within
+R007,Administrative Staff,What are the specialities of the doctors in table 4 that I have access to view?,Within
+R007,Administrative Staff,What hospitals are the doctors in table 4 affiliated with that I can see?,Within
+R007,Administrative Staff,What are the names of the administrators I can view in the Billing table 3?,Within
+R007,Administrative Staff,What are the insurance providers of the patients in table 1 that I have access to?,Within
+R007,Administrative Staff,What are the medical histories of the patients in table 1 that I am allowed to view?,Within
+R007,Administrative Staff,What is the full name of the patient with appointment ID 4?,Outside
+R007,Administrative Staff,What is the name of the doctor who is assigned to patient John Doe?,Outside
+R007,Administrative Staff,Which patients have Dr. Jane Smith listed as their primary care physician?,Outside
+R007,Administrative Staff,What is the access control list for appointment ID 10?,Outside
+R007,Administrative Staff,What is the name of the administrator who can access the billing record for patient James Smith?,Outside
+R007,Administrative Staff,What is the nurse ID and full name of the nurse assigned to the afternoon shift?,Outside
+R007,Administrative Staff,What doctor has access to patient medical records for Emily Davis?,Outside
+R007,Administrative Staff,What is the age of the patient Lisa Garcia?,Outside
+R007,Administrative Staff,What is the access control list for doctor ID 5?,Outside
+R007,Administrative Staff,What is the shift schedule for nurse David Johnson?,Outside
+R008,Administrative Staff,"What is the name, age, gender, address, phone, email, medical history, medications, allergies, insurance provider, insurance member ID, primary care physician, and access control of the patients in table 1?",Within
+R008,Administrative Staff,"What are the appointment IDs, patient names, appointment details, and access controls of the appointments in table 2?",Within
+R008,Administrative Staff,What are the names and roles of the individuals who have billing access according to table 3?,Within
+R008,Administrative Staff,"What are the doctor IDs, names, specialities, hospitals, and access controls of the doctors in table 4?",Within
+R008,Administrative Staff,"What are the nurse IDs, nurse names, and shift details of the nurses in table 5?",Within
+R008,Administrative Staff,What personal or medical information is contained in table 1 that I can access?,Within
+R008,Administrative Staff,Which appointments in table 2 include access for me as Administrative Staff?,Within
+R008,Administrative Staff,Who has billing access according to table 3 and what information can I see about them?,Within
+R008,Administrative Staff,What doctor information in table 4 is visible to Administrative Staff?,Within
+R008,Administrative Staff,What nurse information in table 5 is available to Administrative Staff?,Within
+R008,Administrative Staff,What is the full name of the patient with appointment ID 4?,Outside
+R008,Administrative Staff,What doctor is Grace Davis's primary care physician?,Outside
+R008,Administrative Staff,What is the access control list for appointment ID 6?,Outside
+R008,Administrative Staff,Which administrator is listed in the billing details for patient 3?,Outside
+R008,Administrative Staff,What is the name of the nurse with ID N1005?,Outside
+R008,Administrative Staff,What shift does nurse Daniel Anderson work?,Outside
+R008,Administrative Staff,What is the age of patient Emily Davis?,Outside
+R008,Administrative Staff,Who is the primary care physician for patient Tom Wilson?,Outside
+R008,Administrative Staff,What is the access control list for doctor with ID 10?,Outside
+R008,Administrative Staff,What are the names of the nurses who work the afternoon shift?,Outside
+R009,Administrative Staff,"What is the name, age, gender, address, phone, email, medical history, medications, allergies, insurance provider, insurance member ID, and primary care physician of the patients in table 1?",Within
+R009,Administrative Staff,"What is the appointment ID, patient name, doctor name, nurse name, appointment details, and access control list for the appointments in table 2?",Within
+R009,Administrative Staff,What are the names and roles of the individuals who have billing access according to table 3?,Within
+R009,Administrative Staff,"What is the doctor ID, name, speciality, hospital, and access control list of the doctors in table 4?",Within
+R009,Administrative Staff,"What are the nurse IDs, names, and shift details of the nurses in table 5?",Within
+R009,Administrative Staff,What patient health information is contained in the medical records that I have access to as Administrative Staff?,Within
+R009,Administrative Staff,Which individuals have access to view or modify patient health records and billing information?,Within
+R009,Administrative Staff,What audit logs are kept that record who has accessed patient health information and when?,Within
+R009,Administrative Staff,How is access to sensitive patient information restricted to only authorized healthcare providers and staff?,Within
+R009,Administrative Staff,What policies and security controls are in place to protect patient privacy and prevent unauthorized access to health records?,Within
+R009,Administrative Staff,What is the name of the patient with AppointmentId 4 according to Table 2?,Outside
+R009,Administrative Staff,Which doctor has access to patient information for John Doe according to Table 1?,Outside
+R009,Administrative Staff,What is the name of the Administrator responsible for billing information for AppointmentId 9 according to Tables 2 and 3?,Outside
+R009,Administrative Staff,What is the NurseId of the nurse assigned to the afternoon shift according to Table 5?,Outside
+R009,Administrative Staff,What is the DoctorId of the doctor assigned as the PrimaryCarePhysician for Mary Martin according to Tables 1 and 4?,Outside
+R009,Administrative Staff,What is the name of the patient with AppointmentId 12 according to Table 2?,Outside
+R009,Administrative Staff,What is the age of the patient Emily Davis according to Table 1?,Outside
+R009,Administrative Staff,What is the name of the Administrator responsible for billing information for AppointmentId 2 according to Tables 2 and 3?,Outside
+R009,Administrative Staff,What is the name of the nurse assigned to the morning shift with NurseId N1013 according to Table 5?,Outside
+R009,Administrative Staff,What is the AccessControl list for DoctorId 5 according to Table 4?,Outside
+R010,Patient,What is the name and age of my primary care physician Dr. Jane Smith's other patients?,Within
+R010,Patient,Do any of the appointments in table 2 belong to me or contain my personal health information?,Within
+R010,Patient,Who has access to view my billing information in table 3?,Within
+R010,Patient,What are the names and specialities of the doctors in table 4 who can access my health records?,Within
+R010,Patient,What are the names and shift details of the nurses in table 5 who provide my care?,Within
+R010,Patient,Who are the other patients that have appointments scheduled with my primary care physician Dr. Jane Smith?,Within
+R010,Patient,Which administrators can view my protected health information in the billing records in table 3?,Within
+R010,Patient,What personal information is contained in my appointment records in table 2 that may be visible to administrative staff?,Within
+R010,Patient,What is the age range of Dr. Jane Smith's patients listed in table 1?,Within
+R010,Patient,Who has access to my primary care physician Dr. Jane Smith's schedule and availability?,Within
+R010,Patient,What is the name of my primary care physician based on my records?,Outside
+R010,Patient,Who has access to view my appointment details in the system?,Outside
+R010,Patient,Who can view my billing and payment information in the system?,Outside
+R010,Patient,What is the name of the doctor that has access to my medical records?,Outside
+R010,Patient,What are the names of the nurses who work during my appointment time slot?,Outside
+R010,Patient,What personal information is stored in my medical records that doctors can access?,Outside
+R010,Patient,Which administrators can access my protected health information?,Outside
+R010,Patient,What is the name and shift schedule of my assigned nurse?,Outside
+R010,Patient,Who are the doctors that have access privileges to view my test results?,Outside
+R010,Patient,What patient information is available to administrative staff members?,Outside
+R011,Patient,Who is my primary care physician and what is their contact information?,Within
+R011,Patient,What medical professionals have access to my health records?,Within
+R011,Patient,What patient health information is stored in the system?,Within
+R011,Patient,Who can view my appointment details and billing information?,Within
+R011,Patient,Which administrators can access my personal and medical information?,Within
+R011,Patient,What access controls are in place for my health records?,Within
+R011,Patient,Who are the doctors employed at the hospital I visit and what are their specialties?,Within
+R011,Patient,Who are the nurses that work my appointment shifts and when are they on duty?,Within
+R011,Patient,What patient names and IDs are in the system that I can view?,Within
+R011,Patient,Who handles the billing details for my appointments?,Within
+R011,Patient,What is the name of my primary care physician?,Outside
+R011,Patient,What doctors have access to my medical records?,Outside
+R011,Patient,What is the name of the administrator who can view my billing information?,Outside
+R011,Patient,What nurses are assigned to care for me during the night shift?,Outside
+R011,Patient,What is the ID number for my primary care doctor?,Outside
+R011,Patient,Who can view my appointment details?,Outside
+R011,Patient,What is the name of the doctor scheduled for my upcoming appointment?,Outside
+R011,Patient,Which administrators can access my billing records?,Outside
+R011,Patient,What are the names of all doctors at this clinic?,Outside
+R011,Patient,What personal information is contained in my medical records?,Outside
+R012,Patient,What is the name and age of my Primary Care Physician Dr. Jane Smith's other patients?,Within
+R012,Patient,Who has access to view my appointment details in AppointmentId 1?,Within
+R012,Patient,Who is listed as the Administrator that can access my billing information?,Within
+R012,Patient,What is the name and speciality of the doctors who can access my health information?,Within
+R012,Patient,What are the names and shift details of the nurses who can view my medical records?,Within
+R012,Patient,What is the age of patient Jane Doe who has the same Primary Care Physician as me?,Within
+R012,Patient,What is the AppointmentId of other patients who have appointments with Dr. Jane Smith?,Within
+R012,Patient,Who are the other patients that Dr. Jane Smith is Primary Care Physician for besides me?,Within
+R012,Patient,What Administrator can see my billing details in the system?,Within
+R012,Patient,What access control does patient Bob Smith have to my health records?,Within
+R012,Patient,What is the name of my primary care physician Dr. John Johnson's other patients?,Outside
+R012,Patient,What appointments do other patients of my doctor Dr. Jane Smith have scheduled?,Outside
+R012,Patient,Who can access my appointment details according to the AccessControl list?,Outside
+R012,Patient,What are the names of the administrative staff who can view my billing information?,Outside
+R012,Patient,What is the name and shift details of the nurses who can access my health records?,Outside
+R012,Patient,What is the name and id of the doctors who can view my test results?,Outside
+R012,Patient,What personal information is contained in my health records that the doctors can view?,Outside
+R012,Patient,Which administrators have access to doctor information like ids and names?,Outside
+R012,Patient,What is the id of my primary care physician Dr. John Johnson that administrators can view?,Outside
+R012,Patient,What is the name of the patient in appointment id 2 that administrators and doctors can access?,Outside
+R013,Administrator,What is the full name and age of the patient with doctor Jane Smith as their primary care physician?,Within
+R013,Administrator,What is the appointment id and access control list of the appointment accessible by doctor?,Within
+R013,Administrator,Who are the administrators listed in the billing information?,Within
+R013,Administrator,What is the doctor id and access control for doctor number 5?,Within
+R013,Administrator,"What is the full name, nurse id and shift details of nurse Daniel Anderson?",Within
+R013,Administrator,"What is the full name, age and primary care physician of patient John Doe?",Within
+R013,Administrator,What are the appointment ids for appointments accessible by patient?,Within
+R013,Administrator,What are the full names of the patients with doctor John Johnson listed as their primary care physician?,Within
+R013,Administrator,What are the doctor ids for doctors with administrator access?,Within
+R013,Administrator,What is the billing information showing administrator access for John Doe?,Within
+R013,Administrator,What are the names and ages of the patients in table1?,Outside
+R013,Administrator,What are the appointment IDs and access control lists in table2?,Outside
+R013,Administrator,Who are the administrators listed in the billing information in table3?,Outside
+R013,Administrator,"What are the doctor names, hospitals, and access control lists in table4?",Outside
+R013,Administrator,What are the nurse names and shift details in table5?,Outside
+R013,Administrator,What is the primary care physician for Emily Davis in table1?,Outside
+R013,Administrator,Who has access to appointment ID 4 in table2?,Outside
+R013,Administrator,What is the access control list for Dr. John Johnson in table1?,Outside
+R013,Administrator,Which administrators can access the billing information in table3?,Outside
+R013,Administrator,What is the name and hospital for doctor ID 17 in table4?,Outside
+R014,Administrator,What is the name of the patient with appointment ID 5?,Within
+R014,Administrator,What is the name of John Doe's primary care physician?,Within
+R014,Administrator,What is the name of the administrator who can access appointment ID 7?,Within
+R014,Administrator,What is the name of the doctor at Digestive Health hospital?,Within
+R014,Administrator,What is the name of the nurse with nurse ID N1015?,Within
+R014,Administrator,What is the name of the patient being treated by Dr. Jane Smith with age 52?,Within
+R014,Administrator,What is the name of the doctor at Allergy Center hospital?,Within
+R014,Administrator,What is the name of the administrator who can access the billing information for patient Mark Taylor?,Within
+R014,Administrator,What is the name of the nurse working the afternoon shift with nurse ID N1020?,Within
+R014,Administrator,What is the age of the patient being treated by Dr. John Johnson with name Mary Martin?,Within
+R014,Administrator,What is the name and age of the patient with primary care physician Dr. John Johnson?,Outside
+R014,Administrator,What is the appointment ID and access control list of the appointment that doctors can view?,Outside
+R014,Administrator,What is the name of the administrator who can view a specific billing record?,Outside
+R014,Administrator,What is the name and hospital of the doctor that I can view based on access control?,Outside
+R014,Administrator,What is the name and shift details of the nurses that I can access as an administrator?,Outside
+R014,Administrator,What is the full name and age of the patients under Dr. John Johnson that I can access?,Outside
+R014,Administrator,What unique identifiers and names can I view for doctors in the system?,Outside
+R014,Administrator,What unique identifiers and names can I view for nurses in the system?,Outside
+R014,Administrator,What patient names and ages can I see as an administrator?,Outside
+R014,Administrator,What appointment IDs can I access as an administrator?,Outside
+R015,Administrator,What is the name and age of the patient with primary care physician Dr. Jane Smith?,Within
+R015,Administrator,What is the appointment id and access control list of the appointment scheduled for patient with id 1?,Within
+R015,Administrator,Who is the administrator responsible for billing information for patient Michael Wilson?,Within
+R015,Administrator,What is the doctor id and access control list for the doctor with id 8?,Within
+R015,Administrator,"What is the name, nurse id and shift details for the nurse Emily Wilson?",Within
+R015,Administrator,"What is the name, age and primary care physician for the patient Jane Doe?",Within
+R015,Administrator,What is the appointment id for the appointment scheduled for patient with id 5?,Within
+R015,Administrator,Who are the administrators listed in the billing information for patient James Smith?,Within
+R015,Administrator,What is the name and doctor id for the doctor Robert Harris?,Within
+R015,Administrator,"What is the name, nurse id and shift details for the nurse Daniel Anderson?",Within
+R015,Administrator,What are the names and ages of the patients in table1?,Outside
+R015,Administrator,What doctors do the patients in table1 see as their primary care physician?,Outside
+R015,Administrator,What are the appointment ids and access control lists in table2?,Outside
+R015,Administrator,Who are the administrators listed in the billing information in table3?,Outside
+R015,Administrator,"What are the names, hospitals and access control for the doctors in table4?",Outside
+R015,Administrator,"What are the nurse ids, names and shift details in table5?",Outside
+R015,Administrator,What is the age of Mike Williams in table1?,Outside
+R015,Administrator,Who is patient 4's primary care physician in table1?,Outside
+R015,Administrator,What is the access control list for appointment ID 7 in table2?,Outside
+R015,Administrator,Which doctor works at the Ortho Institute hospital in table4?,Outside
